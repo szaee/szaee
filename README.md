@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @szaee
-- 👀 I’m interested in ... Machine Learning and Back-end dev
+- 👀 I’m interested in ... Machine Learning, Back-end dev and data engineering
 - 🌱 I’m currently learning ...Python
 
 <!---
